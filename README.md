@@ -11,6 +11,3 @@
 ## development
 
 ![horo.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/387747/21aabbc0-4e4a-e964-3c76-14853b2263dd.gif)
-
-
-![スクリーンショット 2023-04-24 0 53 14](https://user-images.githubusercontent.com/50067058/233850333-25216160-ef8b-4370-aebf-ca3a1301324b.png)
