@@ -28,5 +28,7 @@ firebassでのデプロイと、youtubeAPIの勉強として作成。<br>
 ちなみ某カリキュラムに自己紹介がてら提出する予定のものだったが、そのタイミングが来ることはなかった。
 ---
 
-
-![gomikue.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/387747/35b184fd-c3ba-5987-e593-27a647d69621.gif)
+### クイズアプリ(東京オープンデータベース)
+![gomikue](https://github.com/koo-ke/koo-ke/assets/50067058/392ef8c0-947b-4228-8793-8c88d36101cb)
+>go言語(sam)を活用したクイズアプリ。某カリキュラム提出作品。<br>
+---
