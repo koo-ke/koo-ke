@@ -29,6 +29,9 @@ firebassでのデプロイと、youtubeAPIの勉強として作成。<br>
 ---
 
 ### クイズアプリ(東京オープンデータベース)
-![gomikue](https://github.com/koo-ke/koo-ke/assets/50067058/392ef8c0-947b-4228-8793-8c88d36101cb)
+![gomi](https://github.com/koo-ke/koo-ke/assets/50067058/a5b33313-be80-4d09-8f3e-d39dea93b7b2)
+
 >go言語(sam)を活用したクイズアプリ。某カリキュラム提出作品。<br>
+go言語学習の発表作品。東京オープンデータベースを使用しているが、アクセス毎にリクエストを飛ばしているわけではなく、データベースに保存したデータをgo言語で取得、または更新する形。<br>
+基本的なRESTAPIとしてgo+Lambdaを使用している。
 ---
