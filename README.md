@@ -16,4 +16,4 @@
 ![kookeLab](https://user-images.githubusercontent.com/50067058/234885268-4c0cdc00-bbb9-4b21-9562-55e617640743.gif)
 
 
-![ゴミクエ.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/387747/5daa4832-c034-6804-b55e-bc28552e5a13.gif)
+![gomikue.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/387747/35b184fd-c3ba-5987-e593-27a647d69621.gif)
