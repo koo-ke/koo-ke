@@ -14,12 +14,11 @@
 ![horo.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/387747/21aabbc0-4e4a-e964-3c76-14853b2263dd.gif)  
 vue/rails/firebass/RealtimeDatabase(NoSQL)/localPC(cron)
 >某Vtuber事務所のスケージュールアプリを模写。<br>
-firebassと、youtubeAPIの勉強として作成。<br>
+firebaseとyoutubeAPIの勉強として作成。<br>
 絶対無料で完成させるマンとして15分毎にローカルPCからyoutubeAPIを１日使用限界で収める部分で苦慮。<br>
 ちなみに某Vtuber事務に履歴書と共に持っていくと選考落ち。<br>
 某メガベンチャーの方にその話したところ「外注だったのでは？」と突っ込まれる。
 ---
-
 
 ### 自己紹介ポートフォリオ
 ![kookeLab](https://user-images.githubusercontent.com/50067058/234885268-4c0cdc00-bbb9-4b21-9562-55e617640743.gif)  
@@ -37,3 +36,4 @@ vue/go/aws/s3/Lambda/RDS/chatGPT(脚本)/Midjourney(イラスト)/東京オー�
 東京オープンデータをデータベースに保存して、そのデータを基にクイズアプリを作製。脚本やイラストはAIが担当。<br>
 go言語学習の実験的作品であるが、このアプリを見たほかのエンジニアはフロントばかりに注目して、頑張って学習したgo言語への反応はなく、開発者は涙を流した。
 ---
+
