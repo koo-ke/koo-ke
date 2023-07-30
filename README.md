@@ -8,9 +8,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=koo-ke)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## development
+## 個人開発
 
 ![horo.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/387747/21aabbc0-4e4a-e964-3c76-14853b2263dd.gif)
 
 
 ![kookeLab](https://user-images.githubusercontent.com/50067058/234885268-4c0cdc00-bbb9-4b21-9562-55e617640743.gif)
+
+
+![ゴミクエ.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/387747/5daa4832-c034-6804-b55e-bc28552e5a13.gif)
