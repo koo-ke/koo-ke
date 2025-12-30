@@ -1,12 +1,8 @@
 ## GitHub
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koo-ke&layout=compact&show_icons=true&theme=onedark" />
-</p>
-
 ## 個人開発
 
-### Vtuberスケジュールアプリ　
+### Vtuberスケジュールアプリ　（AI利用なし）
 ![horo.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/387747/21aabbc0-4e4a-e964-3c76-14853b2263dd.gif)  
 vue/rails/firebass/RealtimeDatabase(NoSQL)/localPC(cron)
 >某Vtuber事務所のスケージュールアプリを模写。<br>
@@ -16,7 +12,7 @@ firebaseとyoutubeAPIの勉強として作成。<br>
 某メガベンチャーの方にその話したところ「外注だったのでは？（その会社の技術スタックではない）」と突っ込まれる。
 ---
 
-### 自己紹介ポートフォリオ
+### 自己紹介ポートフォリオ（イラストのみAI）
 ![kookeLab](https://user-images.githubusercontent.com/50067058/234885268-4c0cdc00-bbb9-4b21-9562-55e617640743.gif)  
 vue/aws/s3/Midjourney(イラスト)
 >s3を活用したSPAポートフォリオ。<br>
@@ -25,7 +21,7 @@ vue/aws/s3/Midjourney(イラスト)
 ちなみに某カリキュラム参加に向けて自己紹介用サイトとして作成したものだったが、紹介のタイミングが来ることはなく、誰の目にも触れることなくクローズした。
 ---
 
-### クイズアプリ(東京オープンデータベース)
+### クイズアプリ（イラストのみAI）
 ![gomi](https://github.com/koo-ke/koo-ke/assets/50067058/a5b33313-be80-4d09-8f3e-d39dea93b7b2)  
 vue/go/aws/s3/Lambda/RDS/chatGPT(脚本)/Midjourney(イラスト)/東京オープンデータ
 >goの勉強、オープンデータを初活用し、基本的なRESTAPIを学ぶという名目にて作成されたクイズアプリ。<br>
