@@ -28,7 +28,7 @@ go言語学習の実験的作品であるが、このアプリを見たほかの
 ---
 
 ### タスクアプリ　（claude）
-https://koo-ke-my-todo-app.vercel.app/
+https://koo-ke-my-todo-app.vercel.app/<br>
 React/Next.js/TypeScript/PostgreSQL/Supabase/Vercel/ClaudeCode
 >乗り遅れたClaudeCodeの威力を確認するために、利用していなかった技術スタックでタスクアプリをデプロイしたもの。<br>
 これはダメだ。人力車の時代に機関車が来てしまった。我々エンジニアは車夫から、車掌になる必要があるのだ。<br>
