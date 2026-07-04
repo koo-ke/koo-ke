@@ -6,6 +6,6 @@
 
 | | |
 |---|---|
-| 🕹️ 現物(Webゲーセン) | [kooke-games.pages.dev](https://kooke-games.pages.dev) |
-| 🦋 無人運用中のSNS | [@kookegames.bsky.social](https://bsky.app/profile/kookegames.bsky.social) |
-| 📁 全エージェントの手順書と判断ログ | [koo-ke/kooke-games](https://github.com/koo-ke/kooke-games) |
+| 🕹️ Webゲーセン | [kooke-games.pages.dev](https://kooke-games.pages.dev) |
+| 🦋 運用SNS | [@kookegames.bsky.social](https://bsky.app/profile/kookegames.bsky.social) |
+| 📁 リポジトリ | [koo-ke/kooke-games](https://github.com/koo-ke/kooke-games) |
